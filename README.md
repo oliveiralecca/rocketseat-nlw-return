@@ -9,13 +9,13 @@
 <h1 align="center">Rocketseat NLW Return</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8" /> -->
 
@@ -39,20 +39,20 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/oliveiralecca" target="_blank">Author</a>
 </p>
 
 <br>
 
 ## :dart: About ##
 
-Describe your project
+This project was developed on Rocketseat famous event called Next Level Week. On this edition a Widget to send feedbacks was build for Web or Mobile App.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: &nbsp;Send a comment about a Problem, an Idea or other;\
+:heavy_check_mark: &nbsp;Send a screenshot;\
+:heavy_check_mark: &nbsp;Notify a new feedback received by e-mail;
 
 ## :rocket: Technologies ##
 
@@ -66,24 +66,56 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Node](https://nodejs.org/en/) and [Expo](https://expo.io/) installed.
 
 ## :checkered_flag: Starting ##
+Server
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return
+$ git clone https://github.com/oliveiralecca/rocketseat-nlw-return
 
 # Access
 $ cd rocketseat-nlw-return
+$ cd server
 
 # Install dependencies
-$ yarn
+$ yarn or npm
 
 # Run the project
-$ yarn start
+$ yarn dev or npm run dev
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:3333>
+```
+
+Web
+
+```bash
+# Access
+$ cd rocketseat-nlw-return
+$ cd web
+
+# Install dependencies
+$ yarn or npm
+
+# Run the project
+$ yarn dev or npm run dev
+
+# The project will initialize in the <http://localhost:3000>
+```
+
+Mobile
+
+```bash
+# Access
+$ cd rocketseat-nlw-return
+$ cd mobile
+
+# Install dependencies
+$ yarn or npm
+
+# Run the project
+$ expo start
 ```
 
 ## :memo: License ##
