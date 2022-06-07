@@ -118,9 +118,9 @@ $ yarn or npm
 $ expo start
 ```
 
-## :memo: License ##
+<!-- ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
 Made with :hearts: &nbsp;by <a href="https://github.com/oliveiralecca" target="_blank">Letícia Oliveira</a>
