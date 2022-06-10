@@ -3,7 +3,7 @@
 
   &#xa0;
 	
-  <a href="https://rocketseat-nlw-return-nine.vercel.app">🔗 Demo</a>
+  <a href="https://rocketseat-nlw-return-nine.vercel.app" target="_blank">🔗 Demo</a>
 </div>
 
 <h1 align="center">Rocketseat NLW Return</h1>
