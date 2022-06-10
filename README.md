@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
   <img src="./.github/app.png" alt="Rocketseat NLW Return" />
 
-  <!-- &#xa0; -->
-
-  <!-- <a href="https://rocketseatnlwreturn.netlify.app">Demo</a> -->
+  &#xa0;
+	
+  <a href="https://rocketseat-nlw-return-nine.vercel.app">🔗 Demo</a>
 </div>
 
 <h1 align="center">Rocketseat NLW Return</h1>
@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
-  <!-- <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-nlw-return?color=56BEB8"> -->
+  <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8" /> -->
 
