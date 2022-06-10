@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
   <img src="./.github/app.png" alt="Rocketseat NLW Return" />
 
-  <!-- &#xa0; -->
-
-  <!-- <a href="https://rocketseatnlwreturn.netlify.app">Demo</a> -->
+  &#xa0;
+	
+  <a href="https://rocketseat-nlw-return-nine.vercel.app" target="_blank"><img alt="Demo site" src="https://img.shields.io/badge/%F0%9F%94%97-demo-FF69B4"></a>
 </div>
 
 <h1 align="center">Rocketseat NLW Return</h1>
@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
-  <!-- <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-nlw-return?color=56BEB8"> -->
+  <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-nlw-return?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rocketseat-nlw-return?color=56BEB8" /> -->
 
@@ -123,7 +123,7 @@ $ expo start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :hearts: &nbsp;by <a href="https://github.com/oliveiralecca" target="_blank">Letícia Oliveira</a>
+Made with 💕 by <a href="https://github.com/oliveiralecca" target="_blank">Letícia Oliveira</a>
 
 &#xa0;
 
